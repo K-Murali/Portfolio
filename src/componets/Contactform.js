@@ -39,7 +39,7 @@ const Contactform = () => {
               rows="3"
                
               name="message"
-              placeholder="Send your  message here..."
+              placeholder="Send your  here..."
             ></textarea>
           </div>
 
