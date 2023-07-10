@@ -61,6 +61,7 @@ const Intro = () => {
             data-aos-duration="1200"
             className="  w-80 h-80 rounded-full"
             src={img1}
+            alt='profile'
           />
         </div>
       </div>
