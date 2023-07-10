@@ -1,5 +1,4 @@
 import React from "react";
-import img1 from "../assets/pp.jpg";
 import { useState } from "react";
 import "../index.css";
 import { useEffect } from "react";

@@ -17,28 +17,28 @@ const Experience = () => {
       <p className='text-center mt-12 text-lg font-semibold'>Technologies that I am currently working</p>
         <div className='container  m-5 md:flex mx-auto flex flex-wrap md:gap-10 justify-center items-center '>
        <div>
-         <img  className=' w-20 h-20 m-5' src={ht}></img>
+         <img  className=' w-20 h-20 m-5' alt='css' src={ht}></img>
          <h1 className='text-center  text-lg font-semibold'>HTML </h1>
        </div>
        <div>
-         <img className=' w-20 h-20 m-5'src={css}></img>
+         <img className=' w-20 h-20 m-5' alt='css'src={css}/>
          <h1 className='text-center text-lg font-semibold'>CSS </h1>
        </div>
        <div>
-         <img className=' w-20 h-20 m-5' src={js}></img>
+         <img className=' w-20 h-20 m-5' alt='css' src={js}/>
          <h1 className='text-center text-lg font-semibold'>Javascript </h1>
        </div>
  
        <div>
-         <img   className=' w-20 h-20 m-5' src={ts}></img>
+         <img   className=' w-20 h-20 m-5' alt='css' src={ts}/>
          <h1 className='text-center text-lg font-semibold'>Tailwind</h1>
        </div>
        <div>
-         <img className=' w-20 h-20 m-5' src={rt}></img>
+         <img className=' w-20 h-20 m-5' alt='css' src={rt}/>
          <h1 className='text-center text-lg font-semibold'>React </h1>
        </div>
        <div>
-         <img className=' w-20  h-20 m-5' src={cpp}></img>
+         <img className=' w-20  h-20 m-5'   alt='css'src={cpp}/>
          <h1 className='text-center text-lg font-semibold'>Cpp</h1>
        </div>
 
