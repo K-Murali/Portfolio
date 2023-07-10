@@ -3,7 +3,7 @@ import React from "react";
 const Contactform = () => {
   return (
     <div  data-aos="fade-up" data-aos-duration='900' className="container mx-auto mb-32 mt-28 flex p-5 justify-center items-center">
-      <div className="  border-2 md:w-6/12 rounded-lg p-3  shadow-2xl">
+      <div className="  border-2 md:w-6/12 rounded-lg sm:p-3  p-6 shadow-2xl">
         <h1 className=" text-center text-3xl mt-1 font-bold ">Contact me</h1>
 
         <form  name='contact'
