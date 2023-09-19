@@ -26,7 +26,7 @@ const Experience = () => {
        </div>
        <div>
          <img className=' w-20 h-20 m-5' alt='css' src={js}/>
-         <h1 className='text-center text-lg font-semibold'>Javascript </h1>
+         <h1 className='text-center text-lg font-semibold'>JavaScript </h1>
        </div>
  
        <div>
