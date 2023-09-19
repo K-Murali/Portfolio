@@ -27,9 +27,9 @@ const Intro = () => {
             data-aos-duration="1200"
             className="  pt-2.5 text-lg text-night"
           >
-            This is my personal Portfolio website you
+            This is my personal portfolio website you
             <br />
-            can Know more about me dowm below .{" "}
+            can know more about me dowm below .{" "}
           </h2>
 
           <div data-aos="fade-left" data-aos-duration="1200" className="mt-5">
