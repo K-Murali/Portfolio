@@ -20,7 +20,7 @@ const Project = () => {
       color='primary'
       id='1'
       img={weat}
-      gitlink='https://github.com/K-Murali?tab=repositories'
+      gitlink='https://k-murali.github.io/weather-app/'
       more='I made this App using HTML, CSS, Javascript and bootstrap. you can search a city name in the seacrh component and get the forecast updates for 3 days'
       info='This Weather App contains 6 types of Weather infomation of a particular City for 3 days. we can aslo search a query'
       />
@@ -29,7 +29,7 @@ const Project = () => {
       id='2'
       color='primary'
       img={news}
-      gitlink='https://github.com/K-Murali?tab=repositories'
+      gitlink='https://github.com/K-Murali/news-app'
       more='I made this App using React ,bootstrap and News-API. we can search for a topic in the search component and it will load the related content in the page.'
       info='This News App conatins News From seven categories of a particular country. we can search for a particular keyword. '
       />
@@ -39,7 +39,7 @@ const Project = () => {
       color='primary'
       img={youtube}
       more='This App is made by using React ,Tailwind and  Youtube-API. basically you can search for videos same like in youtube. All components are taken inspiration from youtube.'
-      gitlink='https://github.com/K-Murali?tab=repositories'
+      gitlink='https://k-murali.github.io/yt-clone/'
       info='This is a Youtube clone almost similar to official Youtube made by  fetching data from Youtube-API.'
       />
     </div>
