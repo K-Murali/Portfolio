@@ -33,7 +33,7 @@ const Intro = () => {
           </h2>
 
           <div data-aos="fade-left" data-aos-duration="1200" className="mt-5">
-            <a target='blank' href='https://drive.google.com/file/d/1f2NgdlGd5LPj3T7KIvscdbiWX5H7VJiA/view?usp=sharing' className="btn  bg-emerald-500 mt-4 mx-2 rounded-md normal-case text-white  btn-sm">
+            <a target='blank' href='https://drive.google.com/file/d/1D4WZfB0nvQ8TSoxY0J1eaShHGk-JGKaw/view?usp=sharing' className="btn  bg-emerald-500 mt-4 mx-2 rounded-md normal-case text-white  btn-sm">
               Resume
             </a>
 
